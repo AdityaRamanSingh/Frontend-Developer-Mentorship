@@ -395,7 +395,7 @@ export const jsMCQQuestions = [
     id: 12,
     question:
       "What is the output of the following code snippet? \nconsole.log(2 + 3 + '7');",
-    options: ["'27'", "'57'", "'57'", "12"],
+    options: ["'27'", "'57'", "'237'", "12"],
     answer: "'57'",
   },
   {
@@ -440,7 +440,7 @@ export const jsMCQQuestions = [
     question:
       "What is the output of the following code snippet? \nconsole.log(4 + '4' - 2);",
     options: ["'44'", "6", "'42'", "NaN"],
-    answer: "42",
+    answer: "'42'",
   },
   {
     id: 18,
